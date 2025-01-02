@@ -1,6 +1,6 @@
-Claro! Aqui está um exemplo de README.md que você pode usar para o seu projeto de API de Lista de Tarefas com Flask:
 
-# API de Lista de Tarefas
+
+# API de Lista de Tarefas com Flask:
 
 Este projeto é uma API simples de Lista de Tarefas construída usando Python e o framework Flask. A API permite criar, listar, atualizar e deletar tarefas, simulando um sistema de “lista de tarefas” (To-Do List).
 
